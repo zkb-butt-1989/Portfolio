@@ -136,8 +136,8 @@ export const profile = {
         "Emotions-focused product experience rather than a generic wellness template.",
         "Built and iterated as a shipped store listing, not a demo.",
       ],
-      stack: ["Mobile", "Android"],
-      role: "Mobile engineer at 3S Solutions",
+      stack: ["Hybrid", "Android", "iOS"],
+      role: "Hybrid mobile engineer at 3S Solutions",
       accent: "#7c6cff",
       links: [
         {
@@ -145,8 +145,8 @@ export const profile = {
           href: "https://play.google.com/store/apps/details?id=com.essentialemotion.guru",
         },
         {
-          label: "Website",
-          href: "https://essentialemotions.com/app/",
+          label: "App Store",
+          href: "https://apps.apple.com/ec/app/essential-emotions/id6497874332",
         },
       ],
     },
@@ -182,7 +182,7 @@ export const profile = {
         "A grocery shopping app focused on convenience: browse, order, and get through checkout with a streamlined mobile experience.",
       highlights: [
         "Consumer grocery flows built for everyday shopping.",
-        "Paired with the public Martoo product presence in the UAE market.",
+        "Shipped as a public Android listing.",
       ],
       stack: ["Mobile", "Android"],
       role: "Mobile engineer at 3S Solutions",
@@ -191,10 +191,6 @@ export const profile = {
         {
           label: "Google Play",
           href: "https://play.google.com/store/apps/details?id=com.martoo.grocery",
-        },
-        {
-          label: "Website",
-          href: "https://martoo.ae/",
         },
       ],
     },
@@ -206,15 +202,19 @@ export const profile = {
         "A virtual trainer app for customisable, flexible workouts — pick a pre-made routine or build your own and follow along.",
       highlights: [
         "Pre-defined exercise routines plus room to customise.",
-        "Fitness product shipped as a public Android listing.",
+        "Fitness product shipped on Android and iOS.",
       ],
-      stack: ["Mobile", "Android"],
-      role: "Mobile engineer at 3S Solutions",
+      stack: ["Hybrid", "Android", "iOS"],
+      role: "Hybrid mobile engineer at 3S Solutions",
       accent: "#f07167",
       links: [
         {
           label: "Google Play",
           href: "https://play.google.com/store/apps/details?id=com.cellercise.rebounder",
+        },
+        {
+          label: "App Store",
+          href: "https://apps.apple.com/pk/app/mr-rebounder/id1300713793",
         },
       ],
     },
